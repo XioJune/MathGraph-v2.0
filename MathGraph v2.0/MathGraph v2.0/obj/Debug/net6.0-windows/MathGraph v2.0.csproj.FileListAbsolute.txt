@@ -1,0 +1,20 @@
+C:\Users\Lina_\source\repos\MathGraph v2.0\MathGraph v2.0\bin\Debug\net6.0-windows\MathGraph v2.0.exe
+C:\Users\Lina_\source\repos\MathGraph v2.0\MathGraph v2.0\bin\Debug\net6.0-windows\MathGraph v2.0.deps.json
+C:\Users\Lina_\source\repos\MathGraph v2.0\MathGraph v2.0\bin\Debug\net6.0-windows\MathGraph v2.0.runtimeconfig.json
+C:\Users\Lina_\source\repos\MathGraph v2.0\MathGraph v2.0\bin\Debug\net6.0-windows\MathGraph v2.0.dll
+C:\Users\Lina_\source\repos\MathGraph v2.0\MathGraph v2.0\bin\Debug\net6.0-windows\MathGraph v2.0.pdb
+C:\Users\Lina_\source\repos\MathGraph v2.0\MathGraph v2.0\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\Lina_\source\repos\MathGraph v2.0\MathGraph v2.0\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\Lina_\source\repos\MathGraph v2.0\MathGraph v2.0\obj\Debug\net6.0-windows\MathGraph v2.0.csproj.AssemblyReference.cache
+C:\Users\Lina_\source\repos\MathGraph v2.0\MathGraph v2.0\obj\Debug\net6.0-windows\MathGraph_v2._0.Form1.resources
+C:\Users\Lina_\source\repos\MathGraph v2.0\MathGraph v2.0\obj\Debug\net6.0-windows\MathGraph v2.0.csproj.GenerateResource.cache
+C:\Users\Lina_\source\repos\MathGraph v2.0\MathGraph v2.0\obj\Debug\net6.0-windows\MathGraph v2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lina_\source\repos\MathGraph v2.0\MathGraph v2.0\obj\Debug\net6.0-windows\MathGraph v2.0.AssemblyInfoInputs.cache
+C:\Users\Lina_\source\repos\MathGraph v2.0\MathGraph v2.0\obj\Debug\net6.0-windows\MathGraph v2.0.AssemblyInfo.cs
+C:\Users\Lina_\source\repos\MathGraph v2.0\MathGraph v2.0\obj\Debug\net6.0-windows\MathGraph v2.0.csproj.CoreCompileInputs.cache
+C:\Users\Lina_\source\repos\MathGraph v2.0\MathGraph v2.0\obj\Debug\net6.0-windows\MathGraph v2.0.csproj.CopyComplete
+C:\Users\Lina_\source\repos\MathGraph v2.0\MathGraph v2.0\obj\Debug\net6.0-windows\MathGraph v2.0.dll
+C:\Users\Lina_\source\repos\MathGraph v2.0\MathGraph v2.0\obj\Debug\net6.0-windows\refint\MathGraph v2.0.dll
+C:\Users\Lina_\source\repos\MathGraph v2.0\MathGraph v2.0\obj\Debug\net6.0-windows\MathGraph v2.0.pdb
+C:\Users\Lina_\source\repos\MathGraph v2.0\MathGraph v2.0\obj\Debug\net6.0-windows\MathGraph v2.0.genruntimeconfig.cache
+C:\Users\Lina_\source\repos\MathGraph v2.0\MathGraph v2.0\obj\Debug\net6.0-windows\ref\MathGraph v2.0.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HIfJn3gcLniiGYUC1bUvyDOz9dKEIJUsZj9HzkcAxkOda2uN6tA9xhUD6XXQP5VJmh49a6/SbyH1SgRjNNGXHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lina_\\source\\repos\\MathGraph v2.0\\MathGraph v2.0\\MathGraph v2.0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lina_\\.nuget\\packages\\winforms.datavisualization\\1.7.0\\winforms.datavisualization.1.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
